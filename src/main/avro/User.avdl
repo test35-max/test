@@ -1,0 +1,10 @@
+@namespace ( "fr.dga.test" )
+protocol Test {
+	
+	record User {
+		union{null,string} firstname;
+		union{null,string} lastname;
+		
+		}
+
+}
