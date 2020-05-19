@@ -51,10 +51,11 @@ L'objectif est double:
  
  -3) Dans la classe fr.dga.App.java, implémenter la méthode readAvro(), de telle sorte à ce qu'elle lise le fichier users.avro et affiche les noms et prénoms de chaque utilisateur présent.
  
- 
+ -4) Dans la classe fr.dga.App.java, implémenter la méthode frequency(String s) prenant une chaîne de caractères en argument et affiche sa fréquence dans le fichier test.txt (ratio entre son nombre d'occurences et le nombre de mots du texte).
  
  ### Questions
  
-  - Combien d'utilisateurs sont contenus dans le fichier?
+  - Combien d'utilisateurs sont contenus dans le fichier avro ?
   - Fournir la liste de leurs noms et prénoms
-  - Quelle est la commande maven permettant de générer le jar test-1.0-SNAPSHOT.jar
+  - Quelle est la commande maven permettant de générer le jar test-1.0-SNAPSHOT.jar ?
+  - Quelle est la fréquence des prénoms des utilisateurs dans le fichier test.txt ?
